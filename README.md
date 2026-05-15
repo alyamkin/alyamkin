@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm Andrey
 
-<!--
-**alyamkin/alyamkin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Web Developer focused on building responsive, scalable, and user-friendly web applications.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 I’m currently working on
+- Budget app 
+
+---
+
+## 🌱 I’m currently learning
+- Claude Code usage, React Native
+
+---
+
+## 🚀 Current Focus
+- Modern frontend development with React & Next.js  
+- Clean architecture and scalable UI systems  
+- Performance optimization and developer experience  
+
+---
+
+## 🧠 Tech Stack
+
+### Frontend / Backend / Database
+React • Next.js • TypeScript • JavaScript • Redux • AngularJS • HTML • CSS • Tailwind CSS • MUI • MySql • Postgres
+
+---
+
+## 🛠️ Tooling
+Git • GitHub • Docker • Figma • Jira • ESLint • Vite • pnpm • Claude Code • Codex
+
+---
+
+## 📌 Principles
+- Clean and maintainable code  
+- Reusable and scalable components  
+- Strong focus on UI/UX quality  
+- Efficient development workflows  
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/alyamkin
+- LinkedIn: https://www.linkedin.com/in/andreylyamkin
+- Email: andrew.lyamkin@gmail.com 
