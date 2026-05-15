@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Andrey
 
-Web Developer focused on building responsive, scalable, and user-friendly web applications.
+Creative web developer. I design and build modern web applications with a focus on usability and performance
 
 ---
 
@@ -11,13 +11,6 @@ Web Developer focused on building responsive, scalable, and user-friendly web ap
 
 ## 🌱 I’m currently learning
 - Claude Code usage, React Native
-
----
-
-## 🚀 Current Focus
-- Modern frontend development with React & Next.js  
-- Clean architecture and scalable UI systems  
-- Performance optimization and developer experience  
 
 ---
 
